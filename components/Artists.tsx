@@ -38,7 +38,7 @@ export default function Artists() {
           ].map((tab) => (
             <button
               key={tab.id}
-              onClick={() => setSelectedRole(tab.id as any)}
+              onClick={() => setSelectedRole(tab.id as "ALL" | "Individual Master" | "Community / Living Guild")}
               className={`px-4 py-2 rounded-full text-xs font-semibold tracking-wider uppercase transition-all cursor-pointer ${
                 selectedRole === tab.id
                   ? "bg-[#d4af37] text-[#0d0d12] shadow-lg shadow-[#d4af37]/20"

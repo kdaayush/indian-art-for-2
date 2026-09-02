@@ -1,6 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
+import type { LucideIcon } from "lucide-react";
 import { ArtCategory } from "@/data/types";
 import { Palette, Gem, Layers, Sparkles, Brush, Flame, Landmark } from "lucide-react";
 
@@ -12,7 +13,7 @@ interface MapFiltersProps {
   categoryCounts: Record<FilterCategory, number>;
 }
 
-const CATEGORY_ITEMS: { id: FilterCategory; label: string; icon: any; color: string }[] = [
+const CATEGORY_ITEMS: { id: FilterCategory; label: string; icon: LucideIcon; color: string }[] = [
   { id: "ALL", label: "All Traditions", icon: Sparkles, color: "#d4af37" },
   { id: "Painting", label: "Painting", icon: Palette, color: "#d97706" },
   { id: "Sculpture", label: "Sculpture", icon: Gem, color: "#b45309" },

@@ -17,7 +17,7 @@ export const ARTISTS_AND_TRADITIONS: ArtistOrTradition[] = [
       "Democratized sacred art through affordable oleographs"
     ],
     famousWorks: ["Shakuntala Looking Back", "Damayanti and the Swan", "Goddess Saraswati", "Harischandra in Distress"],
-    imageUrl: "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artist/Raja-Ravi-Varma.jpg",
     legacy: "Conferred the Kaisar-i-Hind Gold Medal in 1904; his style formed the foundational visual lexicon of modern Indian popular culture."
   },
   {
@@ -36,7 +36,7 @@ export const ARTISTS_AND_TRADITIONS: ArtistOrTradition[] = [
       "Designed the emblems for India's highest civilian honors: Bharat Ratna and Padma Vibhushan"
     ],
     famousWorks: ["Constitution of India Illumination", "Dandi March (Bapuji)", "Sati", "Haripura Posters"],
-    imageUrl: "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artist/nandalal_bose.jpg",
     legacy: "Conferred the Padma Vibhushan (1954) and celebrated as 'Shilpacharya' (Master of Arts)."
   },
   {
@@ -55,7 +55,7 @@ export const ARTISTS_AND_TRADITIONS: ArtistOrTradition[] = [
       "Declared a 'National Treasure' artist by the Government of India in 1976"
     ],
     famousWorks: ["Bride's Toilet", "Three Girls (Group of Three)", "South Indian Villagers Going to Market", "Hill Women"],
-    imageUrl: "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artist/Amrita_Sher-Gil_2.jpg",
     legacy: "Her works form the core collection of the National Gallery of Modern Art (NGMA), New Delhi, and cannot be exported out of India."
   },
   {
@@ -74,7 +74,7 @@ export const ARTISTS_AND_TRADITIONS: ArtistOrTradition[] = [
       "Exhibited alongside Pablo Picasso at the São Paulo Biennial in 1971"
     ],
     famousWorks: ["Lightning (44-foot Horse Mural)", "Mother Teresa Series", "Passage of Time", "Mahabharata Suite"],
-    imageUrl: "https://images.unsplash.com/photo-1582561148419-7c87023c915f?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artist/M._F._Husain_in_1956.jpg",
     legacy: "Awarded the Padma Vibhushan (1991); internationally acknowledged as India's most prolific and iconic modern painter."
   },
   {
@@ -93,7 +93,7 @@ export const ARTISTS_AND_TRADITIONS: ArtistOrTradition[] = [
       "Garnered multiple Padma Awards and established women-led rural artisan co-operatives"
     ],
     famousWorks: ["Kohbar Nuptial Chamber Murals", "Mahabharata and Ramayana Epics", "Ecological Tree of Life Series"],
-    imageUrl: "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artworks/bihar-kohbar.jpg",
     legacy: "Symbolizes the enduring strength of indigenous feminine wisdom and collective artistic transmission."
   },
   {
@@ -112,7 +112,7 @@ export const ARTISTS_AND_TRADITIONS: ArtistOrTradition[] = [
       "Exhibited at the Centre Pompidou (Paris), Tate Modern (London), and Tokyo"
     ],
     famousWorks: ["Lagnacha Chawk (Wedding Square)", "Tarpa Dance Mandala", "Harvest and Forest Spirits"],
-    imageUrl: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artworks/maharashtra-warli-tarpa.jpg",
     legacy: "Jivya Soma Mashe was awarded the Padma Shri in 2011; the community continues to train new generations in Palghar."
   },
   {
@@ -131,7 +131,7 @@ export const ARTISTS_AND_TRADITIONS: ArtistOrTradition[] = [
       "Raghurajpur was declared India's first National Heritage Crafts Village (2000)"
     ],
     famousWorks: ["Dasavatara Scroll Cycles", "Jagannath Temple Triad Patta", "Gita Govinda Palm Leaf Etchings"],
-    imageUrl: "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artworks/odisha-pattachitra.jpg",
     legacy: "A global model of community-sustained heritage preservation where 100% of village households practice traditional art."
   },
   {
@@ -150,7 +150,7 @@ export const ARTISTS_AND_TRADITIONS: ArtistOrTradition[] = [
       "Awarded Geographical Indication (GI) tag for Swamimalai Bronze Icons"
     ],
     famousWorks: ["Shiva Nataraja of Swamimalai", "Kalyanasundara (Divine Wedding)", "Ardhanarishvara"],
-    imageUrl: "https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artworks/tamil-nadu-nataraja.jpg",
     legacy: "Recognized by UNESCO and the Government of India as master custodians of living sacred metallurgy."
   }
 ];

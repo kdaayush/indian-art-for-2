@@ -40,7 +40,7 @@ export default function Gallery({ regions }: GalleryProps) {
           INDIAN ARTWORK GALLERY
         </h2>
         <p className="text-sm sm:text-base text-[#baa995] font-light leading-relaxed">
-          Examine high-resolution reproductions of celebrated masterpieces across Indian history—from Ajanta's serenity and Chola bronzes to Kishangarh's Bani Thani.
+          Examine high-resolution reproductions of celebrated masterpieces across Indian history—from Ajanta&apos;s serenity and Chola bronzes to Kishangarh&apos;s Bani Thani.
         </p>
 
         {/* Filter Pills */}

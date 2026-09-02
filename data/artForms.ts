@@ -17,7 +17,7 @@ export const ART_FORM_CATEGORIES: ArtFormCategoryInfo[] = [
     ],
     primaryRegions: ["Bihar", "Odisha", "Karnataka", "West Bengal", "Ladakh"],
     sampleArtwork: "Bodhisattva Padmapani / Dasavatara Pattachitra",
-    imageUrl: "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artworks/odisha-pattachitra.jpg",
     accentColor: "#d97706",
     iconName: "Palette",
     traditionCount: 14
@@ -38,7 +38,7 @@ export const ART_FORM_CATEGORIES: ArtFormCategoryInfo[] = [
     ],
     primaryRegions: ["Tamil Nadu", "Chhattisgarh", "Madhya Pradesh", "Karnataka", "Uttar Pradesh"],
     sampleArtwork: "Shiva Nataraja / Bastar Ceremonial Elephant",
-    imageUrl: "https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artworks/tamil-nadu-nataraja.jpg",
     accentColor: "#b45309",
     iconName: "Gem",
     traditionCount: 11
@@ -59,7 +59,7 @@ export const ART_FORM_CATEGORIES: ArtFormCategoryInfo[] = [
     ],
     primaryRegions: ["Gujarat", "Andhra Pradesh", "Jammu & Kashmir", "Tamil Nadu", "Assam"],
     sampleArtwork: "Tree of Life Kalamkari / Navratna Patan Patola",
-    imageUrl: "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artworks/gujarat-patan-patola.jpg",
     accentColor: "#059669",
     iconName: "Layers",
     traditionCount: 16
@@ -80,7 +80,7 @@ export const ART_FORM_CATEGORIES: ArtFormCategoryInfo[] = [
     ],
     primaryRegions: ["Madhya Pradesh", "Maharashtra", "Assam", "Gujarat", "Kashmir"],
     sampleArtwork: "Tarpa Dance / Gond Mahua Tree of Life",
-    imageUrl: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artworks/madhya-pradesh-gond.jpg",
     accentColor: "#ea580c",
     iconName: "Sparkles",
     traditionCount: 18
@@ -101,7 +101,7 @@ export const ART_FORM_CATEGORIES: ArtFormCategoryInfo[] = [
     ],
     primaryRegions: ["Maharashtra", "Kerala", "Andhra Pradesh", "Ladakh", "Madhya Pradesh"],
     sampleArtwork: "Gajendra Moksha / Ajanta Padmapani",
-    imageUrl: "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artworks/maharashtra-padmapani.jpg",
     accentColor: "#10b981",
     iconName: "Brush",
     traditionCount: 9
@@ -122,7 +122,7 @@ export const ART_FORM_CATEGORIES: ArtFormCategoryInfo[] = [
     ],
     primaryRegions: ["Rajasthan", "Himachal Pradesh", "Uttar Pradesh", "Jammu & Kashmir"],
     sampleArtwork: "Radha as Bani Thani / Kangra Gita Govinda",
-    imageUrl: "https://images.unsplash.com/photo-1582561148419-7c87023c915f?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artworks/rajasthan-bani-thani.jpg",
     accentColor: "#c026d3",
     iconName: "Flame",
     traditionCount: 12
@@ -143,7 +143,7 @@ export const ART_FORM_CATEGORIES: ArtFormCategoryInfo[] = [
     ],
     primaryRegions: ["Tamil Nadu", "Odisha", "Madhya Pradesh", "Uttar Pradesh", "Karnataka"],
     sampleArtwork: "Brihadisvara Temple Vimana / Konark Sun Chariot",
-    imageUrl: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=80",
+    imageUrl: "/artworks/odisha-konark-wheel.jpg",
     accentColor: "#8b5cf6",
     iconName: "Landmark",
     traditionCount: 15

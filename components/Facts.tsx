@@ -24,13 +24,13 @@ export default function Facts() {
       <div className="text-center mb-12">
         <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#16151f] border border-[#d4af37]/30 text-xs font-semibold uppercase tracking-widest text-[#d4af37] mb-3">
           <Lightbulb className="w-3.5 h-3.5 text-[#e5c158]" />
-          <span>Curator's Insights & Historical Trivia</span>
+          <span>Curator&apos;s Insights &amp; Historical Trivia</span>
         </div>
         <h2 className="text-3xl sm:text-5xl font-display font-bold text-[#f5f2eb]">
           DID YOU KNOW?
         </h2>
         <p className="text-sm sm:text-base text-[#baa995] font-light max-w-xl mx-auto mt-2">
-          Discover lesser-known historical secrets, scientific connections, and cultural phenomena behind India's artistic legacy.
+          Discover lesser-known historical secrets, scientific connections, and cultural phenomena behind India&apos;s artistic legacy.
         </p>
       </div>
 
@@ -73,7 +73,7 @@ export default function Facts() {
             {/* Fact Heading & Body */}
             <div className="mb-8">
               <h3 className="text-xl sm:text-2xl md:text-3xl font-display font-bold text-[#f5f2eb] mb-4 leading-snug">
-                "{fact.title}"
+                &quot;{fact.title}&quot;
               </h3>
               <p className="text-base sm:text-lg text-[#ede5d8] font-serif italic leading-relaxed mb-4">
                 {fact.fact}

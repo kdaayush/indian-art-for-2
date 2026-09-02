@@ -43,7 +43,7 @@ export default function Stats() {
           <span>Curatorial Scope & Metrics</span>
         </div>
         <h2 className="text-3xl sm:text-5xl font-display font-bold text-[#f5f2eb]">
-          INDIA'S ARTISTIC LANDSCAPE
+          INDIA&apos;S ARTISTIC LANDSCAPE
         </h2>
         <p className="text-sm sm:text-base text-[#baa995] font-light max-w-xl mx-auto mt-2">
           An unprecedented digital aggregation of Indian regional art forms, techniques, and historical lineages.

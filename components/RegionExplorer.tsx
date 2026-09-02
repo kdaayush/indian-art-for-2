@@ -27,7 +27,7 @@ export default function RegionExplorer({ regions, onSelectRegion }: RegionExplor
           <span>Geographic Art Index</span>
         </div>
         <h2 className="text-3xl sm:text-5xl font-display font-bold text-[#f5f2eb] mb-4">
-          EXPLORE INDIA'S ARTISTIC REGIONS
+          EXPLORE INDIA&apos;S ARTISTIC REGIONS
         </h2>
         <p className="text-sm sm:text-base text-[#bdae9c] font-light leading-relaxed">
           From the temple towns of the Kaveri delta to the high Himalayan monastic valleys, click any region below to focus the interactive map and unlock its complete art dossier.
@@ -51,7 +51,7 @@ export default function RegionExplorer({ regions, onSelectRegion }: RegionExplor
               <img
                 src={
                   region.notableArtworks[0]?.imageUrl ||
-                  "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80"
+                  "/artworks/bihar-kohbar.jpg"
                 }
                 alt={region.name}
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"

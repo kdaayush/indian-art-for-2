@@ -27,7 +27,7 @@ export default function FinalCta() {
         </h2>
 
         <p className="text-base sm:text-xl text-[#d4ccbd] font-serif italic max-w-2xl mx-auto leading-relaxed mb-10">
-          "Indian art is not one tradition. It is a collection of thousands of regional expressions shaped by history, geography, communities and generations."
+          &quot;Indian art is not one tradition. It is a collection of thousands of regional expressions shaped by history, geography, communities and generations.&quot;
         </p>
 
         <button

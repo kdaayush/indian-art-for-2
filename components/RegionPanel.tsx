@@ -215,7 +215,7 @@ export default function RegionPanel({
               <span>Did You Know?</span>
             </div>
             <p className="text-xs text-[#ede5d8] leading-relaxed italic">
-              "{region.interestingFact}"
+              &quot;{region.interestingFact}&quot;
             </p>
           </div>
 

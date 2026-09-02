@@ -144,9 +144,9 @@ export default function SearchBar({ regions, onSelectRegion }: SearchBarProps) {
           ) : (
             <div className="p-6 text-center text-sm text-[#9c9282]">
               <Sparkles className="w-6 h-6 mx-auto mb-2 text-[#d4af37]/50" />
-              No matching art traditions found for "{query}".
+              No matching art traditions found for &quot;{query}&quot;.
               <div className="text-xs text-[#70685b] mt-1">
-                Try searching for "Madhubani", "Ajanta", "Pattachitra", or "Chola".
+                Try searching for &quot;Madhubani&quot;, &quot;Ajanta&quot;, &quot;Pattachitra&quot;, or &quot;Chola&quot;.
               </div>
             </div>
           )}

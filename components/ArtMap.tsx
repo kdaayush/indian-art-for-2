@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef, useMemo, useCallback } from "react";
 import { geoMercator, geoPath } from "d3-geo";
+import type { Feature, FeatureCollection } from "geojson";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   ZoomIn,
@@ -44,7 +45,7 @@ export default function ArtMap({
   initialSelectedRegionId = "bihar",
   onRegionChange,
 }: ArtMapProps) {
-  const [geoData, setGeoData] = useState<any>(null);
+  const [geoData, setGeoData] = useState<FeatureCollection | null>(null);
   const [selectedRegion, setSelectedRegion] = useState<ArtRegion | null>(
     () => regions.find((r) => r.id === initialSelectedRegionId) || regions[0]
   );
@@ -318,7 +319,7 @@ export default function ArtMap({
               {/* Render Official Indian States GeoJSON Boundaries */}
               {geoData && geoData.features && (
                 <g className="states-group">
-                  {geoData.features.map((feature: any, index: number) => {
+                  {geoData.features.map((feature: Feature, index: number) => {
                     const stateName = feature.properties?.NAME_1 || feature.properties?.name || "";
                     const isStateSelected = selectedRegion && selectedRegion.stateGeoName.toLowerCase() === stateName.toLowerCase();
                     const isStateHovered = hoveredStateName === stateName;
