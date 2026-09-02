@@ -44,7 +44,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "Traditional 20th Century Heritage",
         medium: "Natural organic dyes on handmade cow-dung washed paper",
         description: "The sacred centerpiece of Mithila weddings, featuring the lotus pond (Kamal-van), bamboo grove (symbol of lineage), fish, turtles, and the Sun and Moon representing cosmic vitality.",
-        imageUrl: "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/bihar-kohbar.jpg",
         locationCreated: "Jitwarpur, Madhubani",
         currentLocation: "National Crafts Museum, New Delhi",
         significance: "Embodies fertility, union, and cosmic harmony in traditional Mithila weddings."
@@ -55,7 +55,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "Late 20th Century",
         medium: "Mineral pigments and soot line work on paper",
         description: "Intricate depiction of divine love framed by peacock motifs, stylized Kadamba leaves, and fish swimming in sacred ponds.",
-        imageUrl: "https://images.unsplash.com/photo-1582561148419-7c87023c915f?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/bihar-radha-krishna.jpg",
         locationCreated: "Ranti Village, Bihar",
         currentLocation: "Mithila Museum, Niigata, Japan"
       }
@@ -103,7 +103,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "Late 5th Century CE (Vakataka Period)",
         medium: "Mineral pigments on mud-plaster rock-wall (tempera/fresco-secco)",
         description: "The quintessential masterpiece of Indian classical art depicting Bodhisattva Avalokiteshvara holding a blue lotus, radiating serene compassion with subtle tribhanga posture and pearl-jeweled crown.",
-        imageUrl: "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/maharashtra-padmapani.jpg",
         locationCreated: "Ajanta Caves, Aurangabad District",
         currentLocation: "Cave 1, Ajanta World Heritage Site",
         significance: "Globally acknowledged as the crowning pinnacle of classical Indian mural painting."
@@ -114,7 +114,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "Contemporary Tribal Masterpiece",
         medium: "Rice paste and water on Geru (red ochre) coated canvas",
         description: "Dozens of stylized human figures holding hands in an expansive spiral dance around the village musician playing the trumpet-like Tarpa horn, symbolizing the unending wheel of life.",
-        imageUrl: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/maharashtra-warli-tarpa.jpg",
         locationCreated: "Palghar District, Maharashtra",
         currentLocation: "National Gallery of Modern Art, Mumbai"
       }
@@ -160,7 +160,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "10th - 11th Century CE (Imperial Chola Dynasty)",
         medium: "Panchaloha (five-metal alloy) solid bronze casting via lost-wax process",
         description: "Shiva dancing within a flaming halo (Prabhamandala), holding the drum of creation (Damaru) and fire of destruction (Agni), crushing the dwarf of ignorance (Apasmara) while granting fearlessness (Abhaya Mudra).",
-        imageUrl: "https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/tamil-nadu-nataraja.jpg",
         locationCreated: "Swamimalai / Thanjavur",
         currentLocation: "Government Museum, Egmore, Chennai / National Museum, New Delhi",
         significance: "Universally regarded as one of the greatest sculptural achievements of human civilization."
@@ -171,7 +171,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "18th Century Maratha Court Period",
         medium: "22K gold leaf, Jaipur stones, and natural pigment on gesso-embossed wood",
         description: "Lustrous icon of infant Krishna butter-thief framed in elaborate gilded arches, glowing with raised gold relief work and vibrant gem inlays.",
-        imageUrl: "https://images.unsplash.com/photo-1584727638096-042c45049ebe?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/tamil-nadu-tanjore-krishna.jpg",
         locationCreated: "Thanjavur Royal Court",
         currentLocation: "Thanjavur Art Gallery, Thanjavur Palace"
       }
@@ -218,7 +218,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "Traditional Eastern Ganga School Continuum",
         medium: "Conch shell, cinnabar, and stone pigments on tamarind-primed cloth",
         description: "The ten avatars of Vishnu radiating symmetrically around the central seated Mahavishnu, framed by dense floral borders and miniature narrative vignettes.",
-        imageUrl: "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/odisha-pattachitra.jpg",
         locationCreated: "Raghurajpur Heritage Village, Puri",
         currentLocation: "Odisha State Museum, Bhubaneswar",
         significance: "The defining masterwork of classical Odishan temple scroll art."
@@ -229,7 +229,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "13th Century CE (King Narasimhadeva I)",
         medium: "Chlorite and Khondalite stone relief carving",
         description: "Intricately carved 24 monumental chariot wheels and celestial musicians (Surasundaris) capturing the cosmic passage of time with breathtaking botanical and figurative details.",
-        imageUrl: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/odisha-konark-wheel.jpg",
         locationCreated: "Konark, Odisha",
         currentLocation: "Konark Sun Temple Site"
       }
@@ -278,7 +278,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "1905 CE (Swadeshi Movement)",
         medium: "Japanese watercolor wash technique on paper",
         description: "Abanindranath Tagore's iconic portrait of Mother India depicted as a saffron-clad ascetic maiden holding four sacred gifts: food (sheaf of paddy), clothing (white cloth), learning (vedas), and spiritual devotion (japamala).",
-        imageUrl: "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/west-bengal-bharat-mata.jpg",
         locationCreated: "Kolkata, Bengal",
         currentLocation: "Victoria Memorial Hall / Rabindra Bharati Society, Kolkata",
         significance: "The seminal masterwork of the Indian Nationalist Art Movement."
@@ -289,7 +289,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "c. 1880 - 1890 CE",
         medium: "Opaque watercolor and silver paint on paper",
         description: "Famous satire depicting a Vaishnavite ascetic hypocritically transformed into a cat sneaking a lobster, executed with bold sweeping contours and dramatic rhythmic volume.",
-        imageUrl: "https://images.unsplash.com/photo-1549887534-1541e9326642?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/west-bengal-kalighat-cat.jpg",
         locationCreated: "Kalighat Temple Environs, Kolkata",
         currentLocation: "Victoria and Albert Museum, London / National Gallery of Modern Art, New Delhi"
       }
@@ -337,7 +337,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "c. 1750 CE (Kishangarh School)",
         medium: "Gouache, gold, and mineral pigments on burnished Vasli paper",
         description: "Nihal Chand's legendary portrait of Radha characterized by exaggerated lotus-petal eyes, sharply sculpted arched eyebrows, slender neck, delicate fingers holding lotus buds, and a translucent gold-bordered veil.",
-        imageUrl: "https://images.unsplash.com/photo-1582561148419-7c87023c915f?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/rajasthan-bani-thani.jpg",
         locationCreated: "Kishangarh Atelier, Rajasthan",
         currentLocation: "National Museum, New Delhi",
         significance: "Universally acknowledged as the crowning jewel of Indian miniature painting."
@@ -348,7 +348,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "19th Century CE (Nathdwara Tradition)",
         medium: "Natural mineral dyes and gold paint on starched cotton cloth",
         description: "Grand temple backdrop depicting Lord Krishna playing the flute under the autumn full moon, surrounded by devoted Gopis and sacred cows adorned with peacock feathers.",
-        imageUrl: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/rajasthan-pichwai-shrinathji.jpg",
         locationCreated: "Nathdwara, Rajasthan",
         currentLocation: "City Palace Museum, Udaipur"
       }
@@ -395,7 +395,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "12th Century Tradition Continuum",
         medium: "Pure Mulberry silk hand-dyed with natural madder, indigo, and turmeric via double-ikat",
         description: "Intricate grid of geometric baskets of flowers (Chhabdi), parrots, elephants, and dancing girls identical on both sides of the silk fabric.",
-        imageUrl: "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/gujarat-patan-patola.jpg",
         locationCreated: "Salvi Wad, Patan",
         currentLocation: "Patan Patola Heritage Museum / Calico Museum of Textiles, Ahmedabad",
         significance: "Considered the most complex and mathematically rigorous textile weaving technique in the world."
@@ -406,7 +406,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "Contemporary Masterpiece",
         medium: "Boiled castor oil pigment paste manipulated with brass rod on silk",
         description: "Symmetrical Tree of Life motif filled with delicate floral scrolls, created by mirroring wet pigment across the folded fabric.",
-        imageUrl: "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/gujarat-rogan-tree.jpg",
         locationCreated: "Nirona Village, Kutch",
         currentLocation: "Presented as official state gift to foreign heads of state by the Prime Minister of India"
       }
@@ -454,7 +454,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "Jangarh Kalam Contemporary Era",
         medium: "Acrylic and archival ink on handmade canvas",
         description: "Luminous intertwining Mahua branches sheltering birds, flying deer, and forest spirits rendered with thousands of rhythmic colored dots and micro-lines.",
-        imageUrl: "https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/madhya-pradesh-gond.jpg",
         locationCreated: "Patangarh / Bhopal",
         currentLocation: "Bharat Bhavan, Bhopal / National Gallery of Modern Art, New Delhi",
         significance: "Iconic representation of the living animist cosmology of Gondwana."
@@ -465,7 +465,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "c. 1025 - 1050 CE (Chandela Dynasty)",
         medium: "Sandstone high-relief architectural sculpture",
         description: "Towering shikhara resembling Mount Meru, adorned with over 800 celestial figures, celestial apsaras applying kohl, and intricate iconographic panels.",
-        imageUrl: "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/madhya-pradesh-khajuraho.jpg",
         locationCreated: "Khajuraho, Chhatarpur District",
         currentLocation: "Khajuraho World Heritage Site"
       }
@@ -512,7 +512,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "19th Century Wodeyar Court Era",
         medium: "24K pure gold foil, gesso relief, and watercolor on board",
         description: "Serene four-armed goddess seated on a lotus throne, holding sugarcane bow, flower arrows, noose, and goad, crowned with gilded gesso tiaras and intricate drapery.",
-        imageUrl: "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/karnataka-mysore-painting.jpg",
         locationCreated: "Mysore Royal Atelier",
         currentLocation: "Jaganmohan Palace Art Gallery, Mysore",
         significance: "Exemplifies the sublime spiritual refinement and gesso technique of the Mysore school."
@@ -523,7 +523,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "16th Century CE (Vijayanagara Empire / King Krishnadevaraya)",
         medium: "Granite monolithic architectural shrine",
         description: "Ornate Garuda shrine sculpted in the form of an imperial processional chariot with revolving wheels and intricately carved elephant statues.",
-        imageUrl: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/karnataka-hampi-chariot.jpg",
         locationCreated: "Hampi, Vijayanagara",
         currentLocation: "Vittala Temple Complex, Hampi World Heritage Site"
       }
@@ -571,7 +571,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "Traditional Sacred Scroll Masterwork",
         medium: "Natural plant and mineral dyes applied with bamboo pen on handloom cotton",
         description: "Expansive cosmic tree teeming with blooming lotuses, peacocks, deer, and singing birds, rooted in sacred waters surrounded by Ramayana narrative episodes.",
-        imageUrl: "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/andhra-telangana-kalamkari.jpg",
         locationCreated: "Srikalahasti, Tirupati District",
         currentLocation: "Victoria and Albert Museum, London / National Crafts Museum, New Delhi",
         significance: "The definitive masterpiece of Indian freehand natural-dye pen art."
@@ -582,7 +582,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "1530 - 1540 CE (Vijayanagara Empire)",
         medium: "Natural mineral fresco on temple ceiling plaster",
         description: "Monumental ceiling fresco depicting the legend of Kiratarjuniya and the coronation of Prince Manunitikanda Chola, showing intricate textile patterns and profile figures.",
-        imageUrl: "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/andhra-lepakshi-mural.jpg",
         locationCreated: "Lepakshi, Sri Sathya Sai District",
         currentLocation: "Veerabhadra Temple Ceiling, Lepakshi"
       }
@@ -628,7 +628,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "Early 18th Century CE (Travancore Royal Court)",
         medium: "Panchavarna mineral and herbal pigments on lime-plaster wall",
         description: "Massive 3-meter wall painting depicting Lord Vishnu on Garuda descending to rescue the elephant king Gajendra from the crocodile, filled with celestial gods, rishis, and aquatic flora.",
-        imageUrl: "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/kerala-mural.jpg",
         locationCreated: "Krishnapuram Palace, Kayamkulam",
         currentLocation: "Krishnapuram Palace Museum",
         significance: "The largest single surviving mural panel in Kerala art history."
@@ -639,7 +639,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "16th - 17th Century CE",
         medium: "Natural fresco-secco on wall",
         description: "Vibrant narrative cycles depicting the coronation of Rama, lively forest scenes, and multi-armed deities in the royal bedchamber.",
-        imageUrl: "https://images.unsplash.com/photo-1582561148419-7c87023c915f?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/kerala-mattancherry-ramayana.jpg",
         locationCreated: "Mattancherry Palace (Dutch Palace), Kochi",
         currentLocation: "Mattancherry Palace, Kochi"
       }
@@ -686,7 +686,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "18th - 19th Century CE",
         medium: "Burnished paper pulp, lacquer, natural minerals, and 24K gold foil",
         description: "Dense miniature tapestry of 'thousand flowers' (Hazara) and singing bulbul birds intertwining across gilded lacquer surfaces.",
-        imageUrl: "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/jammu-kashmir-papier-mache.jpg",
         locationCreated: "Srinagar, Kashmir Valley",
         currentLocation: "Sri Pratap Singh (SPS) Museum, Srinagar / Victoria and Albert Museum, London",
         significance: "The epitome of Indo-Persian decorative perfection."
@@ -697,7 +697,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "c. 1690 - 1700 CE (Devidasa of Basohli)",
         medium: "Opaque gouache, gold, and iridescent beetle wing cases on paper",
         description: "Passionate depiction of hero and heroine with large expressive eyes, intense yellow backgrounds, and genuine emerald-green beetle wings mimicking jewelry.",
-        imageUrl: "https://images.unsplash.com/photo-1582561148419-7c87023c915f?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/jammu-kashmir-basohli-rasamanjari.jpg",
         locationCreated: "Basohli, Jammu Region",
         currentLocation: "National Museum, New Delhi / Dogra Art Museum, Jammu"
       }
@@ -745,7 +745,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "c. 1780 CE (Atelier of Manaku and Nainsukh)",
         medium: "Gouache and gold leaf on burnished paper",
         description: "Krishna sheltering Radha under a black blanket as lightning flashes across dark monsoon clouds above the lush green banks of the Yamuna River.",
-        imageUrl: "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/himachal-pradesh-kangra.jpg",
         locationCreated: "Kangra Fort Atelier",
         currentLocation: "National Museum, New Delhi / Bharat Kala Bhavan, Varanasi",
         significance: "Celebrated as the most emotionally tender and lyrical miniature in Indian art history."
@@ -793,7 +793,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "Contemporary Satriya Tradition Masterwork",
         medium: "Woven bamboo frame, river clay, jute fibers, cow dung, and natural Hengul-Haital pigments",
         description: "Towering dynamic theatrical mask featuring articulated moving jaws and expressive fiery eyes worn by dancers in traditional Bhaona performances.",
-        imageUrl: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/assam-majuli-mask.jpg",
         locationCreated: "Samaguri Satra, Majuli Island",
         currentLocation: "Samaguri Satra Heritage Museum / Indira Gandhi Rashtriya Manav Sangrahalaya, Bhopal",
         significance: "The definitive living heritage of Assamese theatrical sculpture."
@@ -839,7 +839,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "17th - 18th Century CE",
         medium: "Mineral pigments and pure gold powder on cotton framed in Chinese silk brocade",
         description: "The goddess of swift compassion seated with right foot extended on a lotus flower, holding night lotuses, surrounded by 21 emanations of Tara.",
-        imageUrl: "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/ladakh-green-tara.jpg",
         locationCreated: "Thiksey Monastery, Ladakh",
         currentLocation: "Hemis Monastic Museum / Leh Central Institute of Buddhist Studies"
       }
@@ -887,7 +887,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "c. 1610 - 1620 CE (Reign of Jahangir)",
         medium: "Opaque watercolor and gold on paper",
         description: "Astonishingly lifelike anatomical study of a peacock with iridescent plumage standing amid delicate wild irises and butterflies, framed by illuminated floral borders.",
-        imageUrl: "https://images.unsplash.com/photo-1579783901586-d88db74b4fe4?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/uttar-pradesh-mughal-miniature.jpg",
         locationCreated: "Imperial Atelier, Agra",
         currentLocation: "National Museum, New Delhi / Victoria and Albert Museum, London",
         significance: "The supreme masterpiece of Mughal natural history painting."
@@ -898,7 +898,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "5th Century CE (Gupta Empire)",
         medium: "Red sandstone carving",
         description: "Sublime standing Buddha with diaphanous wet-drapery robes, radiating carved halo with lotus rosettes, and inward-looking meditative expression.",
-        imageUrl: "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/uttar-pradesh-mathura-buddha.jpg",
         locationCreated: "Mathura Atelier",
         currentLocation: "Mathura Museum / Rashtrapati Bhavan, New Delhi"
       }
@@ -945,7 +945,7 @@ export const ART_REGIONS: ArtRegion[] = [
         period: "Contemporary Tribal Bronze Continuum",
         medium: "Lost-wax brass and bell metal casting",
         description: "Stately stylized elephant adorned with coiled wire bell garlands, carrying a tribal deity seated beneath a parasol with signature elongated proportions.",
-        imageUrl: "https://images.unsplash.com/photo-1608889175123-8ee362201f81?auto=format&fit=crop&w=1000&q=80",
+        imageUrl: "/artworks/chhattisgarh-dhokra.jpg",
         locationCreated: "Kondagaon, Bastar District",
         currentLocation: "National Crafts Museum, New Delhi / Bastar Heritage Centre, Jagdalpur",
         significance: "Direct contemporary descendant of the Indus Valley metallurgical tradition."
